@@ -12,7 +12,7 @@ import { MailAppPhone } from "./_compponent/_features/mailApp";
 
 export default function Home() {
   return (
-    <div className="w-[1440px] m-auto  ">
+    <div className="w-360 m-auto  ">
       <Navbar />
       <WatchMovie />
       <Coming />
